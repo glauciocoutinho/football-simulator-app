@@ -1,8 +1,7 @@
 package br.com.gcsdatacenter.simulador.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.service.autofill.FieldClassification
+import androidx.appcompat.app.AppCompatActivity
 import br.com.gcsdatacenter.simulador.databinding.ActivityDetailBinding
 import br.com.gcsdatacenter.simulador.domain.Match
 import com.bumptech.glide.Glide

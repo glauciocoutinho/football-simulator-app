@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155395287705",
+    "project_id": "simulator-matches-lab",
+    "storage_bucket": "simulator-matches-lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155395287705:android:ff165e56575d0a0e3ee608",
+        "android_client_info": {
+          "package_name": "br.com.gcsdatacenter.simulador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155395287705-4442eqo7cvatplkf1ovb0g0q04nl7h16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcnP4EnuhBWGb42z-BdVg_b34xVTU0mv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155395287705-4442eqo7cvatplkf1ovb0g0q04nl7h16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
